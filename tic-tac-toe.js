@@ -9,7 +9,6 @@ function topleft(){
   circle.setAttribute("r", 30)
   circle.setAttribute("fill","#33ff77")
   canvas.appendChild(circle)
-
 }
   function topmiddle(){
     var canvas = document.getElementById("game-board")
